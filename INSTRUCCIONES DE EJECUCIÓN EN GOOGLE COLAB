@@ -1,0 +1,13 @@
+Para ejecutar el proyecto en Google Colab debemos seguir los siguientes pasos:
+
+1. Abrir el archivo PROYECTO_3_Señales_PR.ipynb en Google Colab:
+https://colab.research.google.com/drive/1wwOrELKeejhJoH7ZDL8ptYEGUwAWi1hl#scrollTo=vYnRPEBrceCg
+
+2. Cargar la imagen RGB del dron directamente en el entorno de Colab, subiéndolas desde el explorador de archivos o montando Google Drive:
+https://drive.google.com/file/d/1BkAbowWnXSnPt9YveY-lm1HvaVEh7BeG/view
+
+3. Verificar que la ruta de las imágenes esté correctamente configurada en el notebook antes de ejecutar:
+https://drive.google.com/file/d/1BkAbowWnXSnPt9YveY-lm1HvaVEh7BeG/view
+
+4. Ejecutar las celdas de forma secuencial. 
+Las librerías necesarias como OpenCV, NumPy y Matplotlib ya están disponibles en el entorno de Colab y no requieren instalación adicional.
